@@ -1,8 +1,8 @@
 CONFIG_TEMPLATE_PATH = 'configs/config_template.conf'
 OUTPUT_FILE_PATH = 'configs/discord.conf'
 
-MAIN_IP_FILE_PATH = 'ip_lists/discord_main_ip_list.txt'
-VOICE_IP_FILE_PATH = 'ip_lists/discord_voice_ip_list.txt'
+MAIN_IP_FILE_PATH = 'ip_lists/discord-main-ip-list.txt'
+VOICE_IP_FILE_PATH = 'ip_lists/discord-voice-ip-list.txt'
 
 IP_LIST_TAG = 'IP_LIST'
 
